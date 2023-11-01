@@ -1,0 +1,1 @@
+{"version":3,"file":"index.esm.js","sources":["../src/hello.ts","../src/second.ts"],"sourcesContent":["export const hello = () => {\n  console.log(\"HI\");\n};\n","export const hi = () => {\n\tconsole.log(\"HI from second.js\");\n};\n\n"],"names":["hello","console","log","hi"],"mappings":"AAAa,IAAAA,EAAQ,WACnBC,QAAQC,IAAI,KACd,ECFaC,EAAK,WACjBF,QAAQC,IAAI,oBACb"}

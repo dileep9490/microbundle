@@ -1,0 +1,15 @@
+{
+	"name": "microbundle",
+	"version": "1.0.0",
+	"source": "src/index.ts",
+	"main": "lib/index.js",
+	"module": "lib/index.esm.js",
+	"types": "lib/src/index.d.ts",
+	"files": [
+		"lib"
+	],
+	"license": "MIT",
+	"devDependencies": {
+		"microbundle": "^0.15.1"
+	}
+}
